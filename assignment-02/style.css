@@ -1,12 +1,12 @@
 body{
 	  background:linear-gradient(#10631e,#db0284) ;
 	  color: #fff0f9;
-	  margin-top: 8%;
+	  margin-top: 5%;
 	  margin-bottom: 4%;
 	  margin-right: 10%;
+	  margin-left: 5%;
 	 text-align: left;
 	 font-size: 150%;
-	 padding-left: 4%;
 	font-family: plume, serif;
 	font-weight: 400;
 	font-style: normal;
@@ -25,7 +25,7 @@ h2{
 }
 h5{
 	line-height: 10%;
-	color: #b5c9ba;
+	color: #b5c9ba;	
 }
 a{
 	color:#ffcceb;
@@ -35,10 +35,11 @@ a:hover {
 }
 br {
   line-height: 150%;
+
      }
 h4{
 
-	padding-left: 1%;
+	width:80%;
 }
 li{
 	font-size: 160%;
